@@ -62,7 +62,6 @@ I treat AI tools as collaborators — from scaffolding and refactoring to test c
 
 **Build Tools & Libraries**  
 - Vite  
-- Tailwind CSS  
-- Yarn (Plug’n’Play)
+- Tailwind CSS
 
 ---
