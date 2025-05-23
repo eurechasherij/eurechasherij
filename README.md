@@ -48,6 +48,15 @@ I treat AI tools as collaborators — from scaffolding and refactoring to test c
 - React Native  
 - Vue.JS
 
+- **Frontend Libraries**
+- Vite
+- Tailwind CSS (v4)  
+- HeroUI
+- Zustand (state management)  
+- SWR (data fetching with optimistic updates)  
+- React-i18next (internationalization)
+
+
 **Databases**  
 - MySQL  
 - PostgreSQL  
@@ -59,9 +68,5 @@ I treat AI tools as collaborators — from scaffolding and refactoring to test c
 - Nginx / Apache  
 - Docker (basic usage)  
 - CI/CD (GitHub Actions, GitLab CI)
-
-**Build Tools & Libraries**  
-- Vite  
-- Tailwind CSS
 
 ---
