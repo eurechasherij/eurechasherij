@@ -42,6 +42,7 @@ I treat AI tools as collaborators — from scaffolding and refactoring to test c
 
 **Backend**  
 - PHP (Laravel)
+- Golang (learning)
 
 **Frontend**  
 - React JS  
