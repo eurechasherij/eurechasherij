@@ -45,11 +45,11 @@ I treat AI tools as collaborators — from scaffolding and refactoring to test c
 - Golang (learning)
 
 **Frontend**  
-- React JS  
-- React Native  
+- React JS
+- React Native
 - Vue.JS
 
-- **Frontend Libraries**
+**Frontend Libraries**
 - Vite
 - Tailwind CSS (v4)  
 - HeroUI
